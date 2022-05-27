@@ -858,43 +858,43 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 | Badge                                                                                                       | URL                                                                            |
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| <img width='200' src="https://activity-graph.herokuapp.com/graph?username=alexandresanlim&theme=minimal" /> | `https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal` |
+| <img width='200' src="https://activity-graph.herokuapp.com/graph?username=Pranay5463&theme=minimal" /> | `https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal` |
 
 ## 💳 Github Profile Summary Card [🔝](#welcome-badges-4-readmemd-profile)
 
 | Badge                                                                                                                                  | URL                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| <img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandresanlim&theme=vue" /> | `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue` |
+| <img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranay5463&theme=vue" /> | `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue` |
 
 ## 📟 GitHub Stats [🔝](#welcome-badges-4-readmemd-profile)
 
 | Badge                                                                                         | URL                                                              |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| <img width='200' src="https://github-readme-stats.vercel.app/api?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api?username={username}` |
+| <img width='200' src="https://github-readme-stats.vercel.app/api?username=Pranay5463" /> | `https://github-readme-stats.vercel.app/api?username={username}` |
 
 ## 📊 Most Used Language [🔝](#welcome-badges-4-readmemd-profile)
 
 | Badge                                                                                                    | URL                                                                         |
 | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}` |
+| <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay5463" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}` |
 
 ## 🎯 Profile Hits Counter [🔝](#welcome-badges-4-readmemd-profile)
 
 | Badge                                                                                                                                                                                                                                              | URL                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| <img width='200' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexandresanlim%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" /> | `https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter` |
+| <img width='200' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPranay5463%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" /> | `https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter` |
 
 ## ⏱ Streak Stats [🔝](#welcome-badges-4-readmemd-profile)
 
 | Badge                                                                                            | URL                                                                 |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | `https://github-readme-streak-stats.herokuapp.com/?user={username}` |
+| <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay5463" /> | `https://github-readme-streak-stats.herokuapp.com/?user={username}` |
 
 ## 🏆 Trophy Stats [🔝](#welcome-badges-4-readmemd-profile)
 
 | Badge                                                                                        | URL                                                             |
 | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| <img width='200' src="https://github-profile-trophy.vercel.app/?username=alexandresanlim" /> | `https://github-profile-trophy.vercel.app/?username={username}` |
+| <img width='200' src="https://github-profile-trophy.vercel.app/?username=Pranay5463" /> | `https://github-profile-trophy.vercel.app/?username={username}` |
 
 ## ✏ How To Contribute [🔝](#welcome-badges-4-readmemd-profile)
 
